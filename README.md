@@ -10,3 +10,5 @@ Kaggle API,a tool to download data and submit prediction:
 https://github.com/Kaggle/kaggle-api  
 DFDC training set download:  
 https://www.kaggle.com/c/deepfake-detection-challenge/data  
+DFDC full training data download:  
+https://www.kaggle.com/c/deepfake-detection-challenge/discussion/121194#latest-692892  
