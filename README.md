@@ -12,3 +12,5 @@ DFDC training set download:
 https://www.kaggle.com/c/deepfake-detection-challenge/data  
 DFDC full training data download:  
 https://www.kaggle.com/c/deepfake-detection-challenge/discussion/121194#latest-692892  
+DFDC introduction:   
+https://www.kaggle.com/robikscube/kaggle-deepfake-detection-introduction   
